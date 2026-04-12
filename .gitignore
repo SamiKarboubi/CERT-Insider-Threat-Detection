@@ -1,1 +1,16 @@
 cert_dataset/
+
+# Local/generated CSV files
+features_*.csv
+insiders.csv
+r6.2-*.csv
+r6.2-1.csv
+r6.2-2.csv
+r6.2-3.csv
+r6.2-4.csv
+r6.2-5.csv
+features_f.csv
+
+
+# Local scenario list
+scenarios.txt
