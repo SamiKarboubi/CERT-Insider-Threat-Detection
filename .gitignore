@@ -1,2 +1,3 @@
 cert_dataset/
 *.parquet
+features_weekly.csv
