@@ -1,3 +1,8 @@
 cert_dataset/
 *.parquet
 features_weekly.csv
+r6.2-1.csv
+r6.2-2.csv
+r6.2-3.csv
+r6.2-4.csv
+r6.2-5.csv
